@@ -5,9 +5,7 @@ It allows users to register, login, and manage tasks efficiently with a modern U
 
 🌐 Live Demo
 Frontend (Vercel): https://task-manager-app-delta-jet.vercel.app/
-Backend (Render):  https://task-manager-app-c0x7.onrender.com/apicom
 
-🧰 Tech Stack
 
 Frontend
 React (Vite),
